@@ -1,2 +1,2 @@
-# Development
- devaslife-youtube channel projects - learning the libraries and React itself
+# Gmail_UI_Mobile
+ Creating Gmail UI on simulation to learn about React libraries and Javascript
